@@ -1,0 +1,13 @@
+.nav {
+    grid-area: n;
+    background-color: #85d744;
+}
+
+.link {
+    color: white;
+    text-decoration: transparent;
+}
+
+.link.active {
+    color: #1f99a6;
+}
